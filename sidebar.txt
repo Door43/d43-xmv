@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmv:home|Door43 (xmv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmv|d43-xmv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmv/archive/master.zip|d43-xmv.zip]]
+
+**Recent Changes**
+{{changes>ns = xmv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmv|Ethnologue data]]
+
